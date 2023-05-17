@@ -100,11 +100,13 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## OUTPUT:
-![OUTPUT](./out.png)
+![out](https://github.com/Kalpanareshma/serversideprocessing/assets/122040453/15d499de-10e8-46ae-bb70-481d0c90123e)
+
 
 
 ### Home Page:
-![HOME](./home.png)
+![home](https://github.com/Kalpanareshma/serversideprocessing/assets/122040453/4a70409e-a6ea-43fe-8b24-4c09931650bc)
+
 
 
 ## Result:
